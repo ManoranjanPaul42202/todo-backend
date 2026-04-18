@@ -18,7 +18,5 @@ coverage/
 *.log
 *.pid
 *.seed
-package-lock.json
 yarn.lock
-package.json
 tsconfig.json
